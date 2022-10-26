@@ -3,3 +3,4 @@ platform = atmelavr
 board = uno
 framework = arduino
 lib_extra_dirs = D:\Dokumenty\Arduino\libraries
+ide=visualstudio
