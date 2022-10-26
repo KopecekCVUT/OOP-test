@@ -1,4 +1,4 @@
-[env:arduinouno]
+[env:nano]
 platform = atmelavr
 board = uno
 framework = arduino
